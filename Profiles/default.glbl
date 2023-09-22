@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'manojadminmaker2'</initValue>
+      <name>Randomstring1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'manoj+2@triterras.com'</initValue>
+      <name>Randomstring2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'7821013647'</initValue>
+      <name>Randomstring3</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

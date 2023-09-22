@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Try it Yourself</name>
+   <tag></tag>
+   <elementGuidId>12d57f4c-2c1c-4df6-bc5f-f509f3afb168</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[4]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a.w3-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>592ee659-7bb1-4172-b277-83807544416e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>e62115cc-ee6c-4b9c-8b75-c001b9bc43e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w3-btn</value>
+      <webElementGuid>27ed9794-df5f-4f08-8bf0-8109eb963702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>tryit.asp?filename=tryjs_myfirst</value>
+      <webElementGuid>edc4d0a8-a637-469a-a656-fb406fcea1fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try it Yourself »</value>
+      <webElementGuid>0775f5ef-dfed-4e98-ae4e-7d7fc309b26b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;w3-example&quot;]/p[1]/a[@class=&quot;w3-btn&quot;]</value>
+      <webElementGuid>f056c210-d298-4844-a7e9-220098dddb70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[4]/p/a</value>
+      <webElementGuid>97679693-de88-415b-9d3d-79f2d1c1e048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Try it Yourself »')]</value>
+      <webElementGuid>30d69766-d9ce-4cde-be23-f074962c1337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me to display Date and Time'])[1]/following::a[1]</value>
+      <webElementGuid>ceb3b8ee-5526-4e16-8267-2be918f24465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My First JavaScript'])[1]/following::a[1]</value>
+      <webElementGuid>11a568f0-e341-498d-a357-38811a92293f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use the Menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>ed7e596d-6714-4d6b-8d81-cbbdd5a7b2ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='☰'])[1]/preceding::a[1]</value>
+      <webElementGuid>090dcd22-198b-4399-b20b-2dcac1fa10f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try it Yourself »']/parent::*</value>
+      <webElementGuid>84d75d2b-69ee-4634-af2b-c89d7146a67f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'tryit.asp?filename=tryjs_myfirst')]</value>
+      <webElementGuid>dda9a42d-f38e-42d3-8bfd-ba02860543d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>75cc6ad4-85f0-4c41-bf85-ba860fbdfd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'tryit.asp?filename=tryjs_myfirst' and (text() = 'Try it Yourself »' or . = 'Try it Yourself »')]</value>
+      <webElementGuid>c5954a6e-7c65-4ade-86ae-eefee3c294a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

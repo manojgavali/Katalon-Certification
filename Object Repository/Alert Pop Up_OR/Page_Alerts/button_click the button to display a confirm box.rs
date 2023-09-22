@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_click the button to display a confirm box</name>
+   <tag></tag>
+   <elementGuidId>2b176f87-ac66-419e-8d0a-9d7bfc5dd4c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='confirmbox()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8cbfce66-9bbd-4a9f-85d2-ed42b3aa9881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>7e2bccbe-4997-4827-bcd0-f164f5dc835c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>confirmbox()</value>
+      <webElementGuid>19f13de1-ddd8-4920-8ee9-d2f3087e1a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>click the button to display a confirm box </value>
+      <webElementGuid>44865a9a-a161-41f1-9f1a-4b7293111470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CancelTab&quot;)/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>9bb0a363-047d-49b6-a0f0-5d657e056cb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='confirmbox()']</value>
+      <webElementGuid>d81ad6c1-aa1d-4eee-bad0-7e376e66cff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CancelTab']/button</value>
+      <webElementGuid>c45e76f0-7fb7-4058-aa1c-e94ec1e0dec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alert with Textbox'])[1]/following::button[2]</value>
+      <webElementGuid>8a4ace03-9ae5-4f2f-b6e8-d5290418694f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='click the button to demonstrate the prompt box'])[1]/preceding::button[1]</value>
+      <webElementGuid>ebf1e83c-15a1-4bda-9c78-d2551782b5da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='click the button to display a confirm box']/parent::*</value>
+      <webElementGuid>99386ade-b3b2-490e-a3fc-2c76ae8d2e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>25093ad8-e038-4cff-a4e1-a63b674acbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'click the button to display a confirm box ' or . = 'click the button to display a confirm box ')]</value>
+      <webElementGuid>88b09e31-3e6e-4436-9beb-124c2e7a0433</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

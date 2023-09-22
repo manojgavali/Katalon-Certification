@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_pdf-sample1 (9) (1).pdf</name>
+   <tag></tag>
+   <elementGuidId>894e366f-4f34-4ded-a966-fc9c66dac975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='excelCsvUpload-unqorkioFileUpload']/table/tbody/tr/td[2]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-isolate-scope > a.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e08c3b17-1695-416b-95ff-2d85b05dbba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b2877722-e578-4c9f-bff0-ab4f955811df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c32a0a53-e66e-4b5c-a0d3-a02c8e4661be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>download()</value>
+      <webElementGuid>c2fc9833-cdde-418b-b744-882fb8282c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-keydown</name>
+      <type>Main</type>
+      <value>keyDownHandler($event)</value>
+      <webElementGuid>3e201e31-1344-477d-8e00-f26d37e2ab82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>pdf-sample1 (9) (1).pdf</value>
+      <webElementGuid>31ad8932-acaa-4ba4-9f71-79e3780ab7e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>db67981f-b566-4342-878b-a1180226a64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          pdf-sample1 (9) (1).pdf
+        </value>
+      <webElementGuid>2cc026d7-a555-41b9-a414-a07a6659f036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;excelCsvUpload-unqorkioFileUpload&quot;)/table[@class=&quot;table table-striped table-bordered ng-pristine ng-untouched ng-scope ng-isolate-scope ng-not-empty ng-valid ng-valid-required&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[2]/span[@class=&quot;ng-isolate-scope&quot;]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>7ee804c7-917c-41d8-9644-4a4c5fe9dbab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='excelCsvUpload-unqorkioFileUpload']/table/tbody/tr/td[2]/span/a</value>
+      <webElementGuid>fb41b0d6-fd73-4fe5-8184-54d488870011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'pdf-sample1 (9) (1).pdf')]</value>
+      <webElementGuid>056800ac-60c3-4be4-8dd6-fb51670b8fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::a[2]</value>
+      <webElementGuid>ff16ac75-fa54-482f-b4ad-f07b9d3acae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File'])[1]/following::a[2]</value>
+      <webElementGuid>1b4d32e7-9767-4917-ac18-0a9d44e4fd75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='browse'])[1]/preceding::a[1]</value>
+      <webElementGuid>3b347935-e89c-41f1-8cdf-87e26c7659b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='pdf-sample1 (9) (1).pdf']/parent::*</value>
+      <webElementGuid>8774c57d-b213-4404-9cfa-d33b884b4579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>d8b8558b-0fb3-4809-9a19-26ae033b7e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+          pdf-sample1 (9) (1).pdf
+        ' or . = '
+          pdf-sample1 (9) (1).pdf
+        ')]</value>
+      <webElementGuid>b452c49d-a29e-4065-a853-765281e49a51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Select_caret pull-right</name>
+   <tag></tag>
+   <elementGuidId>584c0ecb-8edd-4069-a28c-85bad362c2ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.caret.pull-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='role']/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d74dc9c9-f8ac-47bf-ab3b-61dcc1cda034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret pull-right</value>
+      <webElementGuid>cbffec6c-c478-4e62-b17a-da3d69661af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>$select.toggle($event)</value>
+      <webElementGuid>a3f638fa-6947-432b-a5e6-cb35bc71318e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;role&quot;)/div[@class=&quot;ui-select-match ng-scope btn-default-focus&quot;]/span[@class=&quot;btn btn-default form-control ui-select-toggle&quot;]/i[@class=&quot;caret pull-right&quot;]</value>
+      <webElementGuid>2e3ead89-556d-4e15-99b3-53e245837cc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='role']/div/span/i</value>
+      <webElementGuid>38bb230f-7a1a-44b1-abb1-dcad88a4c38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>49efc2e3-3316-4165-964e-ad33536985f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
